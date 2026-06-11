@@ -14,9 +14,8 @@ A food & beverage business wanted to understand its sales performance across ite
 The dashboard is split into **3 pages**:
  
 ### Page 1 — Overview
-![Overview](<img width="1283" height="724" alt="Screenshot 2026-06-11 231120" src="https://github.com/user-attachments/assets/8000804c-f6bb-42ce-a652-2a55a4b03ba5" />
-)
-  
+<img width="1283" height="724" alt="Screenshot 2026-06-11 231120" src="https://github.com/user-attachments/assets/8000804c-f6bb-42ce-a652-2a55a4b03ba5" />
+
 **Insights:**
 - Total revenue: $110.8K across 10K transactions
 - Avg order value: $11.08 with avg 3 items per order
@@ -26,8 +25,7 @@ The dashboard is split into **3 pages**:
 ---
  
 ### Page 2 — Product Performance
-![Product Performance](<img width="1284" height="721" alt="Screenshot 2026-06-11 231135" src="https://github.com/user-attachments/assets/e58238d1-b4fa-49d4-ab4c-1f6af78ed76b" />
-)
+<img width="1284" height="721" alt="Screenshot 2026-06-11 231135" src="https://github.com/user-attachments/assets/e58238d1-b4fa-49d4-ab4c-1f6af78ed76b" />
  
 **Insights:**
 - Coffee leads revenue at $13.1K
@@ -38,7 +36,7 @@ The dashboard is split into **3 pages**:
 ---
  
 ### Page 3 — Time Analysis
-![Time Analysis](<img width="1287" height="728" alt="Screenshot 2026-06-11 231152" src="https://github.com/user-attachments/assets/c15e606c-d45e-43ea-b709-b62ef3dee8d2" />)
+<img width="1287" height="728" alt="Screenshot 2026-06-11 231152" src="https://github.com/user-attachments/assets/c15e606c-d45e-43ea-b709-b62ef3dee8d2" />
  
 **Insights:**
 - December peaks at $14.3K revenue and 1,255 transactions
